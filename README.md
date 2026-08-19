@@ -113,7 +113,14 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 <div align="center">
 
-**[Cascade AI](https://www.cascadeaicare.com/)** · **[Portfolio](https://sageofninetale.github.io/portfolio/)** · **[Cascade AI on LinkedIn](https://www.linkedin.com/company/cascadeai-official)** · **[aryansubhash20@gmail.com](mailto:aryansubhash20@gmail.com)**
+### 📬 Let's Connect
+
+<a href="mailto:aryansubhash20@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B1220" /></a>
+<a href="https://www.linkedin.com/company/cascadeai-official"><img src="https://img.shields.io/badge/LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=0B1220" /></a>
+<a href="https://www.cascadeaicare.com/"><img src="https://img.shields.io/badge/CASCADE%20AI-FB7185?style=for-the-badge&logo=googlechrome&logoColor=0B1220" /></a>
+<a href="https://sageofninetale.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-14B8A6?style=for-the-badge&logo=vercel&logoColor=0B1220" /></a>
+
+<br>
 
 *Building the trust layer, one shift at a time.*
 
