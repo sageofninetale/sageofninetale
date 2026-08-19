@@ -1,43 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=Aryan%20Subhash&fontSize=52&fontColor=3DDC97&fontAlignY=35&animation=fadeIn&desc=Founder,%20Cascade%20AI%20%7C%20Trust-layer%20healthcare%20AI&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:134E4A,100:0B1220&height=220&section=header&text=Aryan%20Subhash&fontSize=52&fontColor=2DD4BF&fontAlignY=35&animation=fadeIn&desc=Founder,%20Cascade%20AI%20%7C%20Trust-layer%20healthcare%20AI&descAlignY=58&descSize=18&descColor=E2E8F0" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=3DDC97&center=true&vCenter=true&width=680&lines=Business+Analyst+by+day.;Founder%2C+Cascade+AI+by+obsession.;Building+AI+that+earns+trust%2C+not+just+output." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Founder%2C+Cascade+AI.;Multi-agent+systems%2C+real+patients%2C+zero+room+for+error.;Building+AI+that+earns+trust%2C+not+just+output." alt="Typing SVG" />
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=sageofninetale&color=3DDC97&style=flat-square&label=profile+views)
-![Followers](https://img.shields.io/github/followers/sageofninetale?style=flat-square&color=3DDC97&labelColor=0F2027)
+![Profile views](https://komarev.com/ghpvc/?username=sageofninetale&color=2DD4BF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0B1220)
+![Followers](https://img.shields.io/github/followers/sageofninetale?style=for-the-badge&color=2DD4BF&labelColor=0B1220&label=FOLLOWERS)
 
 </div>
 
 <br>
 
-### The problem I keep coming back to
+```bash
+aryan@cascade-ai:~$ cat mission.md
+```
+```text
+A nurse hands off a shift verbally. Most of what she says
+gets remembered, forgotten, or half-remembered by the next
+person on shift. That is a silent, structural failure mode
+in healthcare, and nobody designed it on purpose.
 
-A nurse hands off a shift verbally. Some of what she says gets written down. Most of it gets remembered, or forgotten, or half-remembered by the next person. Multiply that across every shift change in every small hospital, clinic, and care home, and you have a silent, structural failure mode in healthcare that nobody designed on purpose.
+I am not building a chatbot that sounds confident.
+I am building the harness around the AI: eval packs,
+human-in-the-loop checks, a trust layer I would stake a
+hospital's compliance on before I would ship it for a demo.
+```
 
-I'm not trying to build another chatbot that sounds confident. I'm trying to build the harness around the AI: the checks, the eval packs, the human-in-the-loop verification that let a nurse trust a system enough to actually rely on it mid-shift. Right now that means a multi-agent pipeline, an LLM-as-judge grader, and a trust layer I'd stake a hospital's compliance on before I'd ship it for a demo.
-
-That's [Cascade AI](https://www.cascadeaicare.com/). It's the thing I build after the day job ends.
+That's [Cascade AI](https://www.cascadeaicare.com/). It is not a side project. It is the thing everything else has to work around.
 
 <br>
 
 <div align="center">
 
-### 365 days, one commit at a time
+<img src="https://raw.githubusercontent.com/sageofninetale/sageofninetale/main/assets/id-badge.svg" width="280" alt="Aryan Subhash — Founder, Cascade AI, clinical systems access badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🩺 Vitals: 365 days of commits, watched as a pulse
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sageofninetale/sageofninetale/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sageofninetale/sageofninetale/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sageofninetale/sageofninetale/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="A pulse moving through my GitHub contribution graph" src="https://raw.githubusercontent.com/sageofninetale/sageofninetale/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
 <br>
 
-## Featured work
+## 🩺 Featured work
 
 | Project | What it does | Status |
 |---|---|---|
@@ -48,7 +65,7 @@ That's [Cascade AI](https://www.cascadeaicare.com/). It's the thing I build afte
 
 <br>
 
-## The lab: where the ideas before the ideas live
+## 🧪 The lab: where the ideas before the ideas live
 
 Before something earns a place in Cascade AI, it usually gets tested small first.
 
@@ -62,13 +79,15 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 <div align="center">
 
-## What I build with
+## Stack
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,supabase,langchain&theme=dark" />
 
 <br><br>
 
-![Anthropic](https://img.shields.io/badge/-Claude%20%2F%20Anthropic-D97757?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20%2F%20Anthropic-0B1220?style=for-the-badge&logoColor=2DD4BF)
+![EMR](https://img.shields.io/badge/EMR%20Integration-0B1220?style=for-the-badge&logoColor=2DD4BF)
+![Eval%20Harness](https://img.shields.io/badge/LLM--as--Judge%20Eval%20Harness-0B1220?style=for-the-badge&logoColor=2DD4BF)
 
 </div>
 
@@ -76,12 +95,12 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sageofninetale&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageofninetale&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sageofninetale&show_icons=true&hide_border=true&count_private=true&bg_color=0B1220&title_color=2DD4BF&icon_color=2DD4BF&text_color=CBD5E1&border_color=134E4A" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageofninetale&layout=compact&hide_border=true&bg_color=0B1220&title_color=2DD4BF&text_color=CBD5E1&border_color=134E4A" />
 
-<img src="https://streak-stats.demolab.com?user=sageofninetale&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sageofninetale&hide_border=true&background=0B1220&ring=2DD4BF&fire=FB7185&currStreakLabel=2DD4BF&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border=134E4A" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sageofninetale&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sageofninetale&hide_border=true&area=true&bg_color=0B1220&color=2DD4BF&line=2DD4BF&point=FB7185" width="100%" />
 
 </div>
 
@@ -91,7 +110,7 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 ### Trophy case
 
-<img src="https://github-profile-trophy.vercel.app/?username=sageofninetale&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=sageofninetale&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -101,6 +120,8 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 **[Cascade AI](https://www.cascadeaicare.com/)** · **[Portfolio](https://sageofninetale.github.io/portfolio/)** · **[Cascade AI on LinkedIn](https://www.linkedin.com/company/cascadeai-official)** · **[aryansubhash20@gmail.com](mailto:aryansubhash20@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" width="100%" />
+*Building the trust layer, one shift at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:134E4A,100:0B1220&height=120&section=footer" width="100%" />
 
 </div>
