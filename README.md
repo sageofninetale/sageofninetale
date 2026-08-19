@@ -90,22 +90,7 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sageofninetale&show_icons=true&hide_border=true&count_private=true&bg_color=0B1220&title_color=2DD4BF&icon_color=2DD4BF&text_color=CBD5E1&border_color=134E4A" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageofninetale&layout=compact&hide_border=true&bg_color=0B1220&title_color=2DD4BF&text_color=CBD5E1&border_color=134E4A" />
-
-<img src="https://streak-stats.demolab.com?user=sageofninetale&hide_border=true&background=0B1220&ring=2DD4BF&fire=FB7185&currStreakLabel=2DD4BF&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border=134E4A" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sageofninetale&hide_border=true&area=true&bg_color=0B1220&color=2DD4BF&line=2DD4BF&point=FB7185" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Trophy case
-
-<img src="https://github-profile-trophy.vercel.app/?username=sageofninetale&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
