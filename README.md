@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1200&color=3DDC97&center=true&vCenter=true&width=680&lines=Business+Analyst+by+day.;Founder%2C+Cascade+AI+by+obsession.;Building+AI+that+earns+trust%2C+not+just+output." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=Aryan%20Subhash&fontSize=52&fontColor=3DDC97&fontAlignY=35&animation=fadeIn&desc=Founder,%20Cascade%20AI%20%7C%20Trust-layer%20healthcare%20AI&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=3DDC97&center=true&vCenter=true&width=680&lines=Business+Analyst+by+day.;Founder%2C+Cascade+AI+by+obsession.;Building+AI+that+earns+trust%2C+not+just+output." alt="Typing SVG" />
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=sageofninetale&color=3DDC97&style=flat-square&label=profile+views)
+![Followers](https://img.shields.io/github/followers/sageofninetale?style=flat-square&color=3DDC97&labelColor=0F2027)
 
 </div>
 
@@ -16,12 +23,26 @@ That's [Cascade AI](https://www.cascadeaicare.com/). It's the thing I build afte
 
 <br>
 
+<div align="center">
+
+### 365 days, one commit at a time
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sageofninetale/sageofninetale/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sageofninetale/sageofninetale/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sageofninetale/sageofninetale/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
 ## Featured work
 
 | Project | What it does | Status |
 |---|---|---|
 | **[Cascade AI](https://github.com/sageofninetale/microsoft-ai-dev-days-2026)** | Multi-agent healthcare handover tool. A nurse speaks, the system extracts structured clinical data, cross-checks it against the EMR, checks protocol compliance, and generates a handover document in under 2 minutes | Recognized at Microsoft AI Dev Days 2026 |
-| **Axio** | AI-assisted physiotherapy documentation, built with a clinical co-founder | Recognized at a Google Hackathon (private repo) |
+| **Axio** | AI-assisted physiotherapy documentation, built with a clinical co-founder | Google Hackathon product (private repo) |
 | **[Rivalyze](https://github.com/sageofninetale/rivalyze)** | Competitive intelligence tool that turns scattered market signal into a structured read | Live on AWS |
 | **[Portfolio v2](https://github.com/sageofninetale/portfolio-v2)** | Data-editorial portfolio built with GSAP, Three.js, and Lenis | Live |
 
@@ -39,17 +60,15 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 <br>
 
-## What I build with
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white&labelColor=009688)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white&labelColor=61DAFB)
-![Anthropic](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white&labelColor=D97757)
-![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=white&labelColor=3ECF8E)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logoColor=white&labelColor=1C3C3C)
+## What I build with
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,supabase,langchain&theme=dark" />
+
+<br><br>
+
+![Anthropic](https://img.shields.io/badge/-Claude%20%2F%20Anthropic-D97757?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -57,14 +76,22 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sageofninetale&show_icons=true&hide_border=true&theme=tokyonight&hide_title=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sageofninetale&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageofninetale&layout=compact&hide_border=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=sageofninetale&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sageofninetale&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sageofninetale&theme=tokyonight&hide_border=true" />
+### Trophy case
+
+<img src="https://github-profile-trophy.vercel.app/?username=sageofninetale&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -73,5 +100,7 @@ Before something earns a place in Cascade AI, it usually gets tested small first
 <div align="center">
 
 **[Cascade AI](https://www.cascadeaicare.com/)** · **[Portfolio](https://sageofninetale.github.io/portfolio/)** · **[Cascade AI on LinkedIn](https://www.linkedin.com/company/cascadeai-official)** · **[aryansubhash20@gmail.com](mailto:aryansubhash20@gmail.com)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
