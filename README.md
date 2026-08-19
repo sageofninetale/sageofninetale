@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Founder%2C+Cascade+AI.;Multi-agent+systems%2C+real+patients%2C+zero+room+for+error.;Building+AI+that+earns+trust%2C+not+just+output." alt="Typing SVG" />
 
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=sageofninetale&color=2DD4BF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0B1220)
-![Followers](https://img.shields.io/github/followers/sageofninetale?style=for-the-badge&color=2DD4BF&labelColor=0B1220&label=FOLLOWERS)
-
 </div>
 
 <br>
